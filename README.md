@@ -1,4 +1,4 @@
-![UiPath](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![UiPath](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-02.png)
 
 # S02P01 For Each & If Statement
 
