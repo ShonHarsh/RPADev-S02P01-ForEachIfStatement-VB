@@ -4,8 +4,8 @@
   "description": "Find the smallest and biggest numbers in an Array\\\\r\\\\n\\\\r\\\\nUse For Each, Assign and If Statements to find the minimum and maximum number in an array of Int32 elements and print it.\\\\r\\\\n\\\\r\\\\nNote: You can instantiate the Array with {7, 5, 2, 4, 3, 9} or with your own values, as long as they are integers.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[24.3.1]",
-    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
+    "UiPath.System.Activities": "[24.5.0-preview]",
+    "UiPath.UIAutomation.Activities": "[24.10.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
