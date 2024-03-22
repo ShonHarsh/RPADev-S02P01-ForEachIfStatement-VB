@@ -24,13 +24,8 @@
 /.tmh/*
 ~*
 
-##################################
-### Data Files                 ###
-##################################
-/Data/Input/
-/Data/Output/
-/Data/Sample Data/
-/Data/Temp/
+# Folder config file
+[Dd]esktop.ini
 
 ##################################
 ### OTHER IDE and TEMP files   ###
