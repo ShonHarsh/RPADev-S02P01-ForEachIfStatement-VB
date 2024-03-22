@@ -26,7 +26,7 @@ Use For Each, Assign and If Statements to find the minimum and maximum number in
 
 **Project Format:** Windows, VB
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement
+**GitHub:** https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement-VB
 
 ### SAMPLE OUTPUT
 
@@ -57,10 +57,6 @@ Clone the project to develop or change it.
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
-
-### READ ME CHANGE LOG
-Thursday, 21 March 2024 10:45:25 - Copy ReadMe from WindowsWindows Legacy project and add Project Format section
-Thursday, 21 March 2024 13:26:00 - Update sample output
 
 ### RPA DEVELOPER FOUNDATION SECTIONS
 
