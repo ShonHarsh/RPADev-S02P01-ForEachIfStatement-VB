@@ -1,0 +1,6 @@
+03/22/2024 14:26:33 => [Debug] Debug started for file: Main
+03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB execution started
+03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB.Main.Minimum; 37
+03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB.Main.Maximum; 180
+03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB.Main.OperationCompleted;
+03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB execution ended in: 00:00:00
