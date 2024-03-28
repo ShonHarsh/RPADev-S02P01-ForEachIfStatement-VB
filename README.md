@@ -49,7 +49,7 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement`
+`git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement-VB`
 
 ### LINKS
 - [UiPath Automation Platform](https://www.uipath.com/)
