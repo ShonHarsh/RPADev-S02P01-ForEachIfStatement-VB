@@ -30,7 +30,7 @@ Use For Each, Assign and If Statements to find the minimum and maximum number in
 
 ### Sample Output
 
-```
+```sh
 03/22/2024 14:26:33 => [Debug] Debug started for file: Main
 03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB execution started
 03/22/2024 14:26:33 => [Info] RPADev-S02P01-ForEachIfStatement-VB.Main.Minimum; 37
@@ -49,11 +49,13 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement-VB`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement-VB
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Atom Editor (Used for all my Readme files)](https://atom-editor.cc/)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
